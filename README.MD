@@ -1,5 +1,5 @@
 🛡️ Installation Note (Windows SmartScreen)
-When installing Steam Bang v1.5.2, you might see a blue window from Windows Defender stating: "Windows protected your PC." This occurs because the application is not currently signed with a paid Microsoft Developer Certificate. However, we assure you that the app is completely safe to use.
+When installing Steam Bang, you might see a blue window from Windows Defender stating: "Windows protected your PC." This occurs because the application is not currently signed with a paid Microsoft Developer Certificate. However, we assure you that the app is completely safe to use.
 
 How to proceed:
 Click on "More info" in the popup.
